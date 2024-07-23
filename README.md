@@ -6,7 +6,8 @@ This project performs sentiment analysis on a dataset of product reviews using t
 
 ## Dataset
 The dataset used for this project can be found on Kaggle:
-- https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+- https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews </br>
+
 The dataset contains product reviews with the following columns:
 - `Id`: Unique identifier for each review.
 - `ProductId`: Unique identifier for each product.
