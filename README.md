@@ -5,6 +5,8 @@
 This project performs sentiment analysis on a dataset of product reviews using two different approaches: VADER (Valence Aware Dictionary and sEntiment Reasoner) and RoBERTa (a robustly optimized BERT approach). The goal is to compare the performance and results of these two models in understanding the sentiment expressed in the reviews.
 
 ## Dataset
+The dataset used for this project can be found on Kaggle:
+- https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 The dataset contains product reviews with the following columns:
 - `Id`: Unique identifier for each review.
 - `ProductId`: Unique identifier for each product.
